@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58eb56dae5311bc42a3ac3739de5f347, type: 3}
+  m_Name: TowerSettings
+  m_EditorClassIdentifier: 
+  _prefabs:
+  - {fileID: 3965949334233686523, guid: de98374f869683142b4673754bfba4c3, type: 3}
+  - {fileID: 7909212653580252814, guid: 74c1060ca157d6d4fb6c49ec78ac4c7b, type: 3}
+  - {fileID: 7152762072125426271, guid: f173eab3f73af7043bff1b3ddd748be1, type: 3}
